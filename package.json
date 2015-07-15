@@ -1,0 +1,20 @@
+{
+  "name": "rdy",
+  "version": "1.0.2",
+  "description": "Runs a callback when rdy is called a certain number of times.",
+  "main": "rdy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ready",
+    "wait",
+    "count"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Appisode/rdy.git"
+  },
+  "author": "Tobias Sytsma <tobias@appiso.de> (http://appiso.de/)",
+  "license": "WTFPL"
+}
